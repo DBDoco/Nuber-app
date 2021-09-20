@@ -23,20 +23,25 @@ $ yarn global add @quasar/cli
 $ npm install -g @quasar/cli
 ```
 
-Runing the client:
+### Runing the client:
+Clone this repository
 ```bash
-# Clone this repository
 $ git clone https://github.com/DBDoco/Nuber-app.git
+```
 
-# Go into the repository
+Go into the repository
+```bash
 $ cd Nuber-app
 $ cd Nuber-client
+```
 
-# Run client on local machine
+Run client on local machine
+```bash
 $ npm install
 $ quasar dev
-
-# To login use the following:
-Email: bedenic@nuber.com
-Password: bedenic123
 ```
+
+## To login use the following:
+Email: bedenic@nuber.com<br>
+Password: bedenic123
+
