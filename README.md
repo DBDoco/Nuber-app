@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Vue project made with <a href="https://quasar.dev/" target="_blank">Quasar</a> framework and Google Firestore database.</h4>
+<h4 align="center">Complete VUE web-application (front and back - end) project made with <a href="https://quasar.dev/" target="_blank">Quasar</a> framework and Google Firestore database.</h4>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/wAg2bAhKtLc0eZWvQz/giphy.gif?cid=790b76117e068e139f45c1855774cf86d3a3b29e463e4256&rid=giphy.gif&ct=g" alt="wsite" />
