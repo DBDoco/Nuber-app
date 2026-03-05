@@ -40,8 +40,3 @@ Run client on local machine
 $ npm install
 $ quasar dev
 ```
-
-## To login use the following:
-Email: bedenic@nuber.com<br>
-Password: bedenic123
-
